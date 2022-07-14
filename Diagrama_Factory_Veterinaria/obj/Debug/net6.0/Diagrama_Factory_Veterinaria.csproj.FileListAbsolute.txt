@@ -1,0 +1,15 @@
+C:\Users\Familia-1\source\repos\Diagrama_Factory_Veterinaria\bin\Debug\net6.0\Diagrama_Factory_Veterinaria.exe
+C:\Users\Familia-1\source\repos\Diagrama_Factory_Veterinaria\bin\Debug\net6.0\Diagrama_Factory_Veterinaria.deps.json
+C:\Users\Familia-1\source\repos\Diagrama_Factory_Veterinaria\bin\Debug\net6.0\Diagrama_Factory_Veterinaria.runtimeconfig.json
+C:\Users\Familia-1\source\repos\Diagrama_Factory_Veterinaria\bin\Debug\net6.0\Diagrama_Factory_Veterinaria.dll
+C:\Users\Familia-1\source\repos\Diagrama_Factory_Veterinaria\bin\Debug\net6.0\Diagrama_Factory_Veterinaria.pdb
+C:\Users\Familia-1\source\repos\Diagrama_Factory_Veterinaria\obj\Debug\net6.0\Diagrama_Factory_Veterinaria.csproj.AssemblyReference.cache
+C:\Users\Familia-1\source\repos\Diagrama_Factory_Veterinaria\obj\Debug\net6.0\Diagrama_Factory_Veterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia-1\source\repos\Diagrama_Factory_Veterinaria\obj\Debug\net6.0\Diagrama_Factory_Veterinaria.AssemblyInfoInputs.cache
+C:\Users\Familia-1\source\repos\Diagrama_Factory_Veterinaria\obj\Debug\net6.0\Diagrama_Factory_Veterinaria.AssemblyInfo.cs
+C:\Users\Familia-1\source\repos\Diagrama_Factory_Veterinaria\obj\Debug\net6.0\Diagrama_Factory_Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Familia-1\source\repos\Diagrama_Factory_Veterinaria\obj\Debug\net6.0\Diagrama_Factory_Veterinaria.dll
+C:\Users\Familia-1\source\repos\Diagrama_Factory_Veterinaria\obj\Debug\net6.0\refint\Diagrama_Factory_Veterinaria.dll
+C:\Users\Familia-1\source\repos\Diagrama_Factory_Veterinaria\obj\Debug\net6.0\Diagrama_Factory_Veterinaria.pdb
+C:\Users\Familia-1\source\repos\Diagrama_Factory_Veterinaria\obj\Debug\net6.0\Diagrama_Factory_Veterinaria.genruntimeconfig.cache
+C:\Users\Familia-1\source\repos\Diagrama_Factory_Veterinaria\obj\Debug\net6.0\ref\Diagrama_Factory_Veterinaria.dll
